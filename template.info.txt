@@ -1,4 +1,4 @@
-base     loquacious-rutabaga
+base     loquaciousrutabaga
 author   Evgueni Souleimanov
 email    esoule@100500.ca
 date     2015-11-02
